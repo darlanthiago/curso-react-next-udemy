@@ -1,5 +1,5 @@
-import P from "prop-types";
-import "./styles.css";
+import P from 'prop-types';
+import './styles.css';
 
 export const TextInput = ({ searchValue, handleChange }) => {
   return (
